@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "accounts": "read",
+    "manage_finance": "yes"
+  },
+  "accountant": {
+    "accounts": "write",
+    "manage_finance": "yes"
+  }
+}
